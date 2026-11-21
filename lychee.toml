@@ -11,8 +11,6 @@ accept = ["200..=299", "429"]
 
 # These sites block automated clients. Check them by hand
 exclude = [
-  '^https://openai\.com/',
-  '^https://venturebeat\.com/',
-  '^https://ai\.meta\.com/',
-  '^https://decisions\.civilresolutionbc\.ca/',
+  '^https://dl\.acm\.org/',
+  '^https://medium\.com/',
 ]
