@@ -1,40 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="638" viewBox="0 0 960 638" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Six questions and how much of the evidence behind them was measured on people">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="638" viewBox="0 0 960 638" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Old maps helped people. AI-drawn maps are untested for correctness">
 <rect width="960" height="638" fill="#0d1117"/>
-<text x="24" y="46" font-size="28" font-weight="700" fill="#e6edf3">Six questions. Almost nothing here was measured on people</text>
+<text x="24" y="46" font-size="28" font-weight="700" fill="#e6edf3">Old maps helped people. AI-drawn maps are untested</text>
 <rect x="24" y="72" width="456" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
 <rect x="24" y="72" width="6" height="170" rx="3" fill="#4493f8"/>
 <text x="50" y="108" font-size="17" font-weight="700" fill="#4493f8" letter-spacing="0.8">MAPS</text>
 <text x="50" y="142" font-size="24" font-weight="700" fill="#e6edf3">How does this app fit together</text>
-<text x="50" y="198" font-size="44" font-weight="700" fill="#e6edf3">9 tools</text>
-<text x="50" y="226" font-size="20" fill="#9198a1">0 measured on people</text>
+<text x="50" y="198" font-size="44" font-weight="700" fill="#e6edf3">19 tools</text>
+<text x="50" y="226" font-size="20" fill="#9198a1">No AI-drawn map tested for correctness</text>
 <rect x="496" y="72" width="456" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
 <rect x="496" y="72" width="6" height="170" rx="3" fill="#ab7df8"/>
-<text x="522" y="108" font-size="17" font-weight="700" fill="#ab7df8" letter-spacing="0.8">WIKIS</text>
+<text x="522" y="108" font-size="17" font-weight="700" fill="#ab7df8" letter-spacing="0.8">WIKIS AND CHAT</text>
 <text x="522" y="142" font-size="24" font-weight="700" fill="#e6edf3">Ask the codebase</text>
-<text x="522" y="198" font-size="44" font-weight="700" fill="#e6edf3">5 tools</text>
-<text x="522" y="226" font-size="20" fill="#9198a1">0 on people, 1 graded by a model</text>
+<text x="522" y="198" font-size="44" font-weight="700" fill="#e6edf3">12 tools</text>
+<text x="522" y="226" font-size="20" fill="#9198a1">3 small studies on people</text>
 <rect x="24" y="258" width="456" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
 <rect x="24" y="258" width="6" height="170" rx="3" fill="#db6d28"/>
 <text x="50" y="294" font-size="17" font-weight="700" fill="#db6d28" letter-spacing="0.8">PULL REQUESTS</text>
 <text x="50" y="328" font-size="24" font-weight="700" fill="#e6edf3">What did the agent just change</text>
-<text x="50" y="384" font-size="44" font-weight="700" fill="#e6edf3">10 tools</text>
-<text x="50" y="412" font-size="20" fill="#9198a1">0 measured on people</text>
+<text x="50" y="384" font-size="44" font-weight="700" fill="#e6edf3">25 tools</text>
+<text x="50" y="412" font-size="20" fill="#9198a1">None measured on people</text>
 <rect x="496" y="258" width="456" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
 <rect x="496" y="258" width="6" height="170" rx="3" fill="#f85149"/>
 <text x="522" y="294" font-size="17" font-weight="700" fill="#f85149" letter-spacing="0.8">IMPACT</text>
 <text x="522" y="328" font-size="24" font-weight="700" fill="#e6edf3">What breaks if I change this</text>
-<text x="522" y="384" font-size="44" font-weight="700" fill="#e6edf3">4 tools</text>
-<text x="522" y="412" font-size="20" fill="#9198a1">0 on people, 1 on agents</text>
+<text x="522" y="384" font-size="44" font-weight="700" fill="#e6edf3">16 entries</text>
+<text x="522" y="412" font-size="20" fill="#9198a1">1 lab study on people, from 2011</text>
 <rect x="24" y="444" width="456" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
 <rect x="24" y="444" width="6" height="170" rx="3" fill="#3fb950"/>
 <text x="50" y="480" font-size="17" font-weight="700" fill="#3fb950" letter-spacing="0.8">YOU</text>
 <text x="50" y="514" font-size="24" font-weight="700" fill="#e6edf3">Do I still understand my code</text>
-<text x="50" y="570" font-size="44" font-weight="700" fill="#e6edf3">5 entries</text>
-<text x="50" y="598" font-size="20" fill="#9198a1">1 trial on people, about learning</text>
+<text x="50" y="570" font-size="44" font-weight="700" fill="#e6edf3">18 entries</text>
+<text x="50" y="598" font-size="20" fill="#9198a1">7 studies on people</text>
 <rect x="496" y="444" width="456" height="170" rx="12" fill="#161b22" stroke="#30363d"/>
 <rect x="496" y="444" width="6" height="170" rx="3" fill="#9198a1"/>
 <text x="522" y="480" font-size="17" font-weight="700" fill="#9198a1" letter-spacing="0.8">RESEARCH</text>
-<text x="522" y="514" font-size="24" font-weight="700" fill="#e6edf3">Studies of human review</text>
-<text x="522" y="570" font-size="44" font-weight="700" fill="#e6edf3">6 studies</text>
-<text x="522" y="598" font-size="20" fill="#9198a1">0 controlled tests of a tool</text>
+<text x="522" y="514" font-size="24" font-weight="700" fill="#e6edf3">Studies on people</text>
+<text x="522" y="570" font-size="44" font-weight="700" fill="#e6edf3">29 studies</text>
+<text x="522" y="598" font-size="20" fill="#9198a1">1 on an AI-drawn map, usage only</text>
 </svg>

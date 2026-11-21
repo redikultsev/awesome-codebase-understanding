@@ -13,4 +13,6 @@ accept = ["200..=299", "429"]
 exclude = [
   '^https://dl\.acm\.org/',
   '^https://medium\.com/',
+  '^https://doi\.org/10\.1145/',
+  '^https://docs\.scitools\.com/',
 ]
