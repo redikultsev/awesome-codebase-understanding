@@ -11,10 +11,11 @@ Thanks for helping. This list is useful only if a reader can tell how much to tr
 ## How to add an entry
 
 - Link the primary source: the repository, the official docs, the paper. Not a reseller page or a roundup.
-- Pick the evidence marks honestly: 📏 only if there is a published measurement with a method, 🔍 if the source is open, 🏷️ if the claims come from the maker, 💬 for an argument without data.
-- Fill the Limits column. Name the strongest claim that has no data behind it, or what the measurement does not cover.
-- One or two sentences per cell, plain and concrete, ending with a period. Numbers only if they are in the source.
-- Put the entry in the section named after the decision someone would be making.
+- Format: `- 🟡 [Name](link) - Open source. What it shows you. *Limits: what its evidence doesn't cover.*`
+- One mark, the strongest the evidence supports: 🟢 a published measurement with a method (say on whom: people or agents), 🟡 the maker's claim with no numbers, ⚪ an argument or experience report, no mark if the entry claims nothing. Write "Open source." in the text instead of a mark.
+- Always add *Limits:* unless the entry claims nothing. Name the strongest claim that has no data behind it, or what the measurement doesn't cover.
+- One or two plain sentences, ending with a period. Numbers only if they are in the source.
+- Put the entry under the decision someone would be making, in the bold sub-group where it fits.
 - One pull request per entry, with a title like `Add [Name]`.
 
 ## Before you open the pull request
