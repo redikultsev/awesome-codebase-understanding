@@ -60,16 +60,16 @@ Three reads if you have one evening.
 
 Maps of a whole codebase: parts, files, requests and outside services. None of them has been measured on people.
 
-| Tool | Reads the code with | Shows a change | Licence |
-| --- | --- | --- | --- |
-| Floorplan | model | yes | MIT |
-| Understand Anything | model | yes | MIT |
-| Graphify | parser | ? | Apache-2.0 |
-| Archify | model | yes | Apache-2.0 |
-| CodeBoarding | parser and model | ? | MIT |
-| Repowise | parser | ? | AGPL-3.0 |
+| Tool | Reads code | Shows a diff |
+| --- | --- | --- |
+| Floorplan | model | yes |
+| Understand Anything | model | yes |
+| Graphify | parser | ? |
+| Archify | model | yes |
+| CodeBoarding | both | ? |
+| Repowise | parser | ? |
 
-`?` means the project doesn't say.
+`?` means the project doesn't say. Both: a parser finds the links, a model names the parts.
 
 **For people who don't read code.**
 
